@@ -11,6 +11,7 @@ This is where we host our tutorial notebooks, showing how to use our API, Python
 
 ## Data Science Topics
 | Notebook     |      Description      |   |
+|:----------|:-------------|:-------------|
 | [Timeseries Cleaning and Imputation](https://github.com/onboard-labs/onboard-labs/blob/main/04_timeseries_cleaning_and_imputation.ipynb)  | Basic timeseries cleaning and data imputation. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-labs/onboard-labs/blob/main/04_timeseries_cleaning_and_imputation.ipynb)| 
 
 ## License
