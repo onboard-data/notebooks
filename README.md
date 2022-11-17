@@ -5,14 +5,14 @@ This is where we host our tutorial notebooks, showing how to use our API, Python
 ## API and Python Client Intro
 | Notebook     |      Description      |   |
 |:----------|:-------------|:-------------|
-| [API Introduction](https://github.com/onboard-data/notebooks/blob/main/01_api_and_wrapper.ipynb)  | A brief overview introducing the Onboard Python client. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/main/01_api_and_wrapper.ipynb)
-| [Exploring Data Points](https://github.com/onboard-data/notebooks/blob/main/02_data-points-exploration-in-pandas.ipynb)  | A further look into the data types in the Onboard Ontology |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/main/02_data-points-exploration-in-pandas.ipynb)|
-| [Introduction to Timeseries Data](https://github.com/onboard-data/notebooks/blob/main/03_time-series-analysis.ipynb)  | Introduction to timeseries analysis with the Onboard client. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/main/03_time-series-analysis.ipynb)| 
+| [API Introduction](https://github.com/onboard-data/notebooks/blob/dev/01_api_and_wrapper.ipynb)  | A brief overview introducing the Onboard Python client. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/01_api_and_wrapper.ipynb)
+| [Exploring Data Points](https://github.com/onboard-data/notebooks/blob/dev/02_data-points-exploration-in-pandas.ipynb)  | A further look into the data types in the Onboard Ontology |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/02_data-points-exploration-in-pandas.ipynb)|
+| [Introduction to Timeseries Data](https://github.com/onboard-data/notebooks/blob/dev/03_time-series-analysis.ipynb)  | Introduction to timeseries analysis with the Onboard client. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/03_time-series-analysis.ipynb)| 
 
 ## Data Science Topics
 | Notebook     |      Description      |   |
 |:----------|:-------------|:-------------|
-| [Timeseries Cleaning and Imputation](https://github.com/onboard-data/notebooks/blob/main/04_timeseries_cleaning_and_imputation.ipynb)  | Basic timeseries cleaning and data imputation. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/main/04_timeseries_cleaning_and_imputation.ipynb)| 
+| [Timeseries Cleaning and Imputation](https://github.com/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb)  | Basic timeseries cleaning and data imputation. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb)| 
 
 ## License
 
