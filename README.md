@@ -1,6 +1,6 @@
 # Onboard Labs Tutorial Notebooks
 
-This is where we host our tutorial notebooks, showing how to use our API, Python API wrapper, and give tutorials and tips on common building data science topics.
+This is where we host our tutorial notebooks, showing how to use our API, Python API wrapper ([documentation here](https://onboard-data-python-client-api.readthedocs.io/en/latest/Initial%20Setup.html)), and give tutorials and tips on common building data science topics.
 
 ## API and Python Client Intro
 | Notebook     |      Description      |   |
