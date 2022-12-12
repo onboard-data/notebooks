@@ -1,6 +1,6 @@
 # Onboard Data's Notebooks
 
-This is where we host our tutorial notebooks, showing how to use our API, Python API wrapper ([documentation here](https://onboard-data-python-client-api.readthedocs.io/en/latest/Initial%20Setup.html)), and giving tutorials and tips on common building data science topics.
+This is where we host our tutorial notebooks, showing how to use our API, Python API wrapper ([documentation here](https://onboard-api-wrappers-documentation.readthedocs.io/en/latest)), and giving tutorials and tips on common building data science topics.
 
 ## API and Python Client Intro
 | Notebook     |      Description      |   |
@@ -13,6 +13,7 @@ This is where we host our tutorial notebooks, showing how to use our API, Python
 | Notebook     |      Description      |   |
 |:----------|:-------------|:-------------|
 | [Timeseries Cleaning and Imputation](https://github.com/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb)  | Basic timeseries cleaning and data imputation. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb)| 
+| [Forecasting, Part 1](https://github.com/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb)  | Basic timeseries cleaning and data imputation. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb)| 
 
 ## License
 
