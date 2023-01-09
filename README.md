@@ -13,7 +13,8 @@ This is where we host our tutorial notebooks, showing how to use our API, Python
 | Notebook     |      Description      |   |
 |:----------|:-------------|:-------------|
 | [Timeseries Cleaning and Imputation](https://github.com/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb)  | Basic timeseries cleaning and data imputation. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/04_timeseries_cleaning_and_imputation.ipynb)| 
-| [Forecasting, Part 1](https://github.com/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb)  | Part 1: feature exploration and selection for a forecasting model. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb)| 
+| [Forecasting, Part 1: Feature Selection](https://github.com/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb)  | Part 1: feature exploration and selection for a forecasting model. |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/05_Forecasting_part_1.ipynb)| 
+| [Forecasting, Part 2: Trend Forecasting](https://github.com/onboard-data/notebooks/blob/dev/06_Forecasting_Part_2.ipynb)  | Part 2: making timeseries forecasting models in Prophet |[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/onboard-data/notebooks/blob/dev/06_Forecasting_Part_2.ipynb)| 
 
 ## License
 
