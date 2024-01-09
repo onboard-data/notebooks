@@ -23,7 +23,7 @@ This is where we host our tutorial notebooks, showing how to use our API, Python
 
 ## License
 
- Copyright 2018-2022 Onboard Data Inc
+ Copyright 2018-2024 Onboard Data Inc
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
